@@ -1,21 +1,12 @@
-<<<<<<< HEAD
 teste davi
-=======
-
-<<<<<<< HEAD
 Teste henrry
-
 Teste Júlia Dias Ferreira
-
 teste juliano
-
 Teste Júlia Dias Ferreira
-
 teste luiz
 
-=======
-teste edson 
 
+teste edson 
 teste luiz
 oi
 oi
@@ -63,5 +54,4 @@ o
 i
 oi
 o
->>>>>>> 2a0c2e467178d84c23fc3533eeb5e80d09961262
->>>>>>> d6ce95559b5469535ed4907708c3fe679a1952eb
+

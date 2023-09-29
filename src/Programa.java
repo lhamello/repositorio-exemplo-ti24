@@ -1,50 +1,8 @@
+public class programa {
 
-teste edson 
-
-teste luiz
-oi
-oi
-io
-ioi
-oio
-io
-io
-i
-oi
-o
-io
-i
-oi
-o
-i
-oi
-oi
-o
-io
-i
-oi
-o
-io
-io
-ioi
-
-io
-i
-oi
-oi
-o
-i
-oi
-o
-io
-i
-o
-io
-i
-o
-i
-oi
-o
-i
-oi
-o
+public static void main (string[] args){
+  system.out.print("hello ti24!!");
+  system.out.print("teste!!");
+  system.out.print("hello edson!!");
+ }
+}

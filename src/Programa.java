@@ -3,15 +3,6 @@
 public class Programa {
 
     public static void main(String[] args) {
-        System.out.printiln ("Hello TI24");
-        System.out.println("Teste!!!");
-        
-    }
-}
-
-public class Programa {
-
-    public static void main(String[] args) {
         System.out.println("Hello TI24!!!");
         System.out.println("Teste!!!");    
 	      System.out.println("Hello Luiz!");    
@@ -19,6 +10,12 @@ public class Programa {
         System.out.println("Hello Gabriel!");
         System.out.println("Hello adao!!!");
         System.out.println("Hello Antonia");
+
+
+
+	    
+
+	    System.out.println("Hello edson");
     }
 }
 

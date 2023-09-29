@@ -1,10 +1,12 @@
-teste henrry
-hello Henrry
-teste edson
+public class Programa {
 
-Teste Júlia Dias Ferreira 
-
-teste luiz
-teste antonia
-teste dani S2
-
+    public static void main(String[] args) {
+        System.out.println("Hello TI24!!!");
+        System.out.println("Teste!!!");    
+	      System.out.println("Hello Luiz!");    
+        System.out.println("hello ederson1!");         
+        System.out.println("Hello Gabriel!");
+        System.out.println("Hello adao!!!");
+      System.out.println("Hello Henrry")
+    }
+}

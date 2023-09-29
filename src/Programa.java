@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+teste davi
+=======
 
 teste nathan
 Teste Júlia Dias Ferreira

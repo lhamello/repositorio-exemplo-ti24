@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Teste Cássio
 
@@ -36,14 +37,12 @@ teste luiz
 
 teste davi
 teste edson
+=======
+>>>>>>> d0f57b9ed389bfaa9d666c314cabd3092aee2244
 public class Programa {
->>>>>>> 4f48c8fd621992c79f76bdeae48ec89315cc437a
 
     public static void main(String[] args) {
         System.out.println("Hello TI24!!!");
-        System.out.println("Teste!!!");
-        System.out.println("i'm bi")
+        System.out.println("Teste!!!");        
     }
 }
-
->>>>>>> 961cc4132155eb7764a38cb4fe5766409b055aaa

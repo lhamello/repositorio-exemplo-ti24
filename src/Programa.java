@@ -56,9 +56,12 @@ oi
 o
 teste davi
 teste edson
+public class Programa {
+>>>>>>> 4f48c8fd621992c79f76bdeae48ec89315cc437a
 
-Teste Júlia Dias Ferreira 
+    public static void main(String[] args) {
+        System.out.println("Hello TI24!!!");
+        System.out.println("Teste!!!");
+    }
+}
 
-teste luiz
-teste antonia
-teste dani S2

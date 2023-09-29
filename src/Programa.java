@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 
 Teste Cássio
-
 
 
 
@@ -23,7 +21,7 @@ teste luiz
 
 teste antonia
 teste dani S2
-=======
+
 teste davi
 teste nathan
 Teste Júlia Dias Ferreira
@@ -37,8 +35,7 @@ teste luiz
 
 teste davi
 teste edson
-=======
->>>>>>> d0f57b9ed389bfaa9d666c314cabd3092aee2244
+
 public class Programa {
 
     public static void main(String[] args) {

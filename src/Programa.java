@@ -1,3 +1,6 @@
-teste davi
-teste edson 
-teste luiz
+public class Programa {
+
+    public static void main(String[] args) {
+        System.out.println("Hello TI24!!!");
+    }
+}

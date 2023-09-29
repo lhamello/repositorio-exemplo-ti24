@@ -1,5 +1,50 @@
-<<<<<<< HEAD
-teste edson dddd
-=======
+
+teste edson 
+
 teste luiz
->>>>>>> c82db223aeff9d63d0717a30bbedd397ffa0be0d
+oi
+oi
+io
+ioi
+oio
+io
+io
+i
+oi
+o
+io
+i
+oi
+o
+i
+oi
+oi
+o
+io
+i
+oi
+o
+io
+io
+ioi
+
+io
+i
+oi
+oi
+o
+i
+oi
+o
+io
+i
+o
+io
+i
+o
+i
+oi
+o
+i
+oi
+o
